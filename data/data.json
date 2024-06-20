@@ -1,0 +1,96 @@
+{
+    "AboutMe":"my name is kiara and im a student at life choices ",
+    "Projects":[
+        {
+           "name":"calculator",
+           "github":"https://github.com/kiara-adams/calculator2.git",
+           "vercel":"https://github.com/kiara-adams/calculator2.git",
+           "description":"i used ",
+           "images":"url"
+        },
+        {
+           "name":"BMI calculator",
+           "github":"https://github.com/kiara-adams/Hulu-clone.git",
+           "vercel":"https://github.com/kiara-adams/calculator2.git",
+           "description":"i used ",
+           "images":"url"
+        },
+        {
+           "name":"BMI calculator",
+           "github":"https://github.com/kiara-adams/swegga-.git",
+           "vercel":"https://github.com/kiara-adams/calculator2.git",
+           "description":"i used ",
+           "images":"url"
+        },
+        {
+           "name":"BMI calculator",
+           "github":"https://github.com/kiara-adams/ecommerce-website-js.git",
+           "vercel":"https://github.com/kiara-adams/calculator2.git",
+           "description":"i used ",
+           "images":"url"
+        },
+        {
+           "name":"BMI calculator",
+           "github":"https://github.com/kiara-adams/ToDoList.git",
+           "vercel":"https://github.com/kiara-adams/calculator2.git",
+           "description":"i used ",
+           "images":"url"
+        },
+        {
+           "name":"BMI calculator",
+           "github":"https://github.com/kiara-adams/calculator2.git",
+           "vercel":"https://github.com/kiara-adams/calculator2.git",
+           "description":"i used ",
+           "images":"url"
+        },
+        {
+           "name":"BMI calculator",
+           "github":"https://github.com/kiara-adams/calculator2.git",
+           "vercel":"https://github.com/kiara-adams/calculator2.git",
+           "description":"i used ",
+           "images":"url"
+        }
+    ],
+    "education":[
+        {
+            "description":"i attented glendale high school ",
+            "year":"2nd April - to present",
+            "placeOfInstitution":"life choice Academy",
+            
+
+            "contact":[
+                {
+                    "name":"kiara",
+                    "contactDetails":""
+                }
+            ],
+       "skills":[
+        {
+            "name":"HTML",
+            "image":"URL"
+        },
+        {
+            "name":"css",
+            "image":"URL"
+        }
+    ],
+    "workExp":[
+        {
+            "placeOfWork":"",
+            "year":"",
+            "description":"",
+            "contact":[{
+                "name":"",
+                "cell":"",
+                "position":""
+            }
+        ],
+        "testimonials":[
+            {
+                ""
+            }
+        ]
+        }
+    ]
+}
+    
