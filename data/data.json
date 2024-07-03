@@ -13,17 +13,19 @@
         { "name": "Contact", "href": "#contact" }
       ]
     },
-    "home": {
-      "title": "Hi, I'm Kiara Adams",
-      "subtitle": "An aspiring web developer.",
-      "socialLinks": [
-        { "icon": "fab fa-facebook", "href": "#" },
-        { "icon": "fab fa-twitter", "href": "#" },
-        { "icon": "fab fa-linkedin", "href": "#" },
-        { "icon": "fab fa-github", "href": "#" }
-      ],
-      "profileImg": "https://kiara-adams.github.io/images/20240422_120422.jpg"
-    },
+    
+        "home": {
+          "typewriterText": [
+            { "text": "HI im Kiara Adams", "class": "big-heading" },
+            { "text": "an aspiring web developer", "class": "smaller-text" },
+            { "text": ", I love building cool websites", "class": "smaller-text" }
+          ],
+          "socialLinks": [
+            { "icon": "fab fa-twitter", "href": "https://twitter.com/yourhandle" },
+            { "icon": "fab fa-linkedin", "href": "https://linkedin.com/in/yourprofile" }
+          ]
+        },
+      
     "about": {
       "title": "About Me",
       "description": "As an aspiring web developer, I'm deeply passionate about coding and creating digital experiences. But beyond lines of code, my heart lies in the world of art. Drawing, painting, and designing are not just hobbies for me—they're a part of who I am. I see my creative side as a powerful asset that enhances my web development projects. Whether I'm sketching out wireframes or crafting intricate designs, I bring my unique artistic perspective to every aspect of my work. It's this fusion of technology and creativity that fuels my passion and drives me to constantly push the boundaries of what's possible in the digital realm.",
@@ -49,6 +51,21 @@
       { "name": "Bootstrap", "icon": "fab fa-bootstrap fa-7x", "color": "#653E7A" }
     ],
     "testimonials": [
+      {
+        "image": "https://kiara-adams.github.io/images/",
+        "feedback": "Kiara is an exceptional developer with a keen eye for detail. Her work ethic and creativity are unmatched.",
+        "author": "John Doe"
+      },
+      {
+        "image": "https://kiara-adams.github.io/images/",
+        "feedback": "Kiara is an exceptional developer with a keen eye for detail. Her work ethic and creativity are unmatched.",
+        "author": "John Doe"
+      },
+      {
+        "image": "https://kiara-adams.github.io/images/",
+        "feedback": "Kiara is an exceptional developer with a keen eye for detail. Her work ethic and creativity are unmatched.",
+        "author": "John Doe"
+      },
       {
         "image": "https://kiara-adams.github.io/images/",
         "feedback": "Kiara is an exceptional developer with a keen eye for detail. Her work ethic and creativity are unmatched.",
