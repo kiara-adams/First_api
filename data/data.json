@@ -2,7 +2,7 @@
     "navbar": {
       "brand": {
         "name": "Kiara Adams",
-        "logo": "https://kiara-adams.github.io/images/"
+        "logo": "https://kiara-adams.github.io/images/myLogo.png"
       },
       "links": [
         { "name": "Home", "href": "#home" },
@@ -19,7 +19,7 @@
       "socialLinks": [
         { "icon": "fab fa-facebook", "href": "#" },
         { "icon": "fab fa-twitter", "href": "#" },
-        { "icon": "fab fa-linkedin", "href": "#" },
+        { "icon": "fab fa-linkedin", "href": "https://www.linkedin.com/in/kiara-adams-3a8300317/" },
         { "icon": "fab fa-github", "href": "https://github.com/kiara-adams" }
       ],
       "profileImg": "https://kiara-adams.github.io/images/20240422_120422.jpg"
@@ -31,15 +31,15 @@
     },
     "education": [
       {
-        "institution": "XYZ University",
-        "degree": "Bachelor of Science in Computer Science",
-        "year": "2020 - 2024",
+        "institution": "Glendale High School",
+     
+        "year": "2019 - 2023",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum quis risus sed libero sodales bibendum."
       },
       {
-        "institution": "ABC High School",
-        "degree": "High School Diploma",
-        "year": "2016 - 2020",
+        "institution": "life Choices Academy",
+        
+        "year": "2024 - ",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum quis risus sed libero sodales bibendum."
       }
     ],
